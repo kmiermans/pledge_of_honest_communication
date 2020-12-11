@@ -54,4 +54,4 @@ Apart from the particular guidelines written above, I will also commit to these 
 - I try to elevate the quality of the conversation, and attempt to make the conversation as valuable for all participants as possible.
 - I make it absolutely clear whenever I (temporarily) stopped following these guidelines. If I did not do so at the time, I do make it clear as soon as possible.
 - I follow these guidelines, even if someone else might not or does not follow them.
-- I allow myself and others to be reasonable about applying these guidelines, and ignore these guidelines when the purpose of the conversation is not to share truths (such as when making jokes).
+- I allow myself and others to ignore these guidelines when the purpose of the conversation is not to share truths (such as when making jokes).
