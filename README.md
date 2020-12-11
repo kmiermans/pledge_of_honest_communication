@@ -36,7 +36,7 @@ In more detail, as a speaker I:
 - help the listener follow these guidelines.
 
 ### Commitments for listening
-As a listening, I commit to the following notions of truth and honesty:
+As a listener, I commit to the following notions of truth and honesty:
 - The interpretation of speech that I *assume* the speaker conveyed is what I believe the speaker *intended* to convey.
 
 In more detail, as a listener I:
