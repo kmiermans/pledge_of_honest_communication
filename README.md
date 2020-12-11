@@ -24,7 +24,7 @@ In more detail, as a speaker I:
 - use, whenever possible, commonplace definitions of words. When substantially deviating from the commonplace definition of a word, I make it absolutely clear that I am.
 - try to offer clear, comprehensible definitions of words and concepts that I introduced.
 - make it clear where I'm certain and where I'm uncertain. Preferably, I express my confidence numerically -- otherwise, I use phrases such as "I think", "I am confident", "I am sure" to qualitatively indicate levels of confidence.
-- am willing to offer evidence in favor of that claim and also admit evidence against that claim.
+- am willing to offer evidence in favor of a claim I'm putting forward and also admit evidence against that claim.
 - attempt to convey information that is relevant and not convey information that is irrelevant.
 - strive not to omit relevant information, and recognize that purposefully omitting relevant or important information can be a form of deceit.
 - do not use speech to deceive, obfuscate, distract or confuse.
